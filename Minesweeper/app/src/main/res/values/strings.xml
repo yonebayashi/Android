@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="toggle_flag">Press to toggle flag mode</string>
+    <string name="clear">Clear</string>
+</resources>

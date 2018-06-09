@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="ERROR_MESSAGE">This field cannot be empty</string>
+    <string name="item_title">item title</string>
+    <string name="item_amount">item amount</string>
+    <string name="expense">Expense: </string>
+    <string name="income">Income: </string>
+    <string name="summary_header">AndWallet</string>
+    <string name="summary_subheader">This view shows your current balance:</string>
+    <string name="title_hint">enter title</string>
+    <string name="amount_hint">enter amount</string>
+</resources>
